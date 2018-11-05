@@ -1,2 +1,5 @@
 *.pyc
-__pycache__/
+blogchannels/__pycache__/
+blogapp/__pycache__/
+
+
